@@ -1,0 +1,6 @@
+.git/
+node_modules/
+*.log
+dist/
+.env
+Новый текстовый документ.txt
